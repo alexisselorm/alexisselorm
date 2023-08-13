@@ -1,4 +1,3 @@
-<figure><embed src="https://wakatime.com/share/@4142de16-f2e5-46ee-bfdf-32077f5e5b5e/0a1fd3d5-fd4c-48a5-a4b8-e52c08b632b4.svg"></embed></figure>
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A passionate developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
