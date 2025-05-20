@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [GoldCoastFC](https://github.com/alexisselorm/goldcoast)
 
-- 🌱 I’m currently learning **VueJs, C# and TypeScript**
+- 🌱 I’m currently learning **XAI Concepts, React, C#, and advanced Typescript**
 
-- 💬 Ask me about **PHP, Laravel, VILT, TALL Stack**
+- 💬 Ask me about **.NET, Angular, DL/ML, Pytorch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
