@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alexis</h1>
+7<h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A passionate developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/chas_kele" target="blank"><img src="https://img.shields.io/twitter/follow/chas_kele?logo=twitter&style=for-the-badge" alt="chas_kele" /></a> </p>
 
-- 🔭 I’m currently working on [GoldCoastFC](https://github.com/alexisselorm/goldcoast)
+- 🔭 I’m currently working on [My Portfolio Website](https://www.alexisgk.com/)
 
 - 🌱 I’m currently learning **XAI Concepts, React, C#, and advanced Typescript**
 
